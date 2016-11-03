@@ -13,7 +13,7 @@ like mine. :)
 ## CLI
 
 There are lots of command line options for you to not use.
-```go
+```bash
 $ ./http2s3 --help
 Usage of ./http2s3:
   -awsaccesskey string
